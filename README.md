@@ -4,5 +4,4 @@ I included a screenshot of my interactive Tableau Public dashboard, but the link
 
 My dataset is from kaggle: https://www.kaggle.com/datasets/jojopopo159/mock-apparel-company-data?select=Sales+Data.xlsx
 
-Link to interactive Tableau dashboard: https://www.kaggle.com/datasets/jojopopo159/mock-apparel-company-data?select=Sales+Data.xlsx
-
+Link to interactive Tableau dashboard: https://public.tableau.com/shared/4YGGX5Q9P?:display_count=n&:origin=viz_share_link
